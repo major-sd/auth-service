@@ -1,0 +1,13 @@
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/dto/RegisterRequest.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/model/User.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/config/SwaggerConfig.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/controller/UserController.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/dto/LoginRequest.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/config/SecurityConfig.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/controller/HealthController.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/service/AuthService.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/AuthServiceApplication.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/exception/UserAlreadyExistsException.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/repository/UserRepository.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/controller/AuthController.java
+/Users/I528949/Scalable-services/auth-service/src/main/java/com/foodorder/auth/dto/AuthResponse.java
